@@ -31,4 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
 /.metadata/
+=======
+>>>>>>> e8d048ff13d7aa06dd5b263cfaf7591cf4d3e6e5
